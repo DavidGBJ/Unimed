@@ -23,3 +23,9 @@ https://github.com/DavidGBJ/Unimed
 Para a estruturação do projeto foi usado o método MVC (Model-View-Controller)
 Também foi aplicado métodos como encapsulamento 
 
+<h2>Query usada para criar a tabela de tarefa</h2>
+CREATE TABLE TAREFAS(
+TAREFAS_PK INT PRIMARY KEY NOT NULL,
+TITULO VARCHAR (100),
+STATUS VARCHAR (50)
+)
