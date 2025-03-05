@@ -2,7 +2,7 @@
 
 ## Tecnologias usadas:
 - Java 11
-- Postrgers
+- Postgres
 - Angular
 - Postman
 - NVM
